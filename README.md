@@ -1,3 +1,4 @@
+Color scheme that is completely random everytime you open neovim
 
 # Preview
 <img width="1868" height="989" alt="barf_preview_0" src="https://github.com/user-attachments/assets/497d0910-1f0d-40c0-9099-03a3e4e49079" />
